@@ -1,1 +1,1 @@
-# SWITH_display
+# SWITH, Study planner.
